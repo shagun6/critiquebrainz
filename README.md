@@ -8,7 +8,7 @@ CritiqueBrainz is a repository for Creative Commons licensed reviews.
  
 ### Building documentation
 
-In case you want to build documentation yourself follow the following steps
+Follow the following steps if you want to build the documentation yourself
 *(make sure that you use Python 3)*:
 
     $ cd ./docs
